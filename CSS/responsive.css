@@ -1,3 +1,28 @@
+/* mobile */
+@media (max-width:1023px) {
+    .Btn{
+        padding: 16px 16px;
+    }
+    .form-control{
+    padding: 15px;
+    }
+    .contact-in-fo {
+        line-height: 2;
+    }
+    .social-list{
+        font-size: 48px;
+    }
+    .social-list{
+    font-size: 22px;
+    }
+    .social-list a {
+    margin: 0 8px;
+    }
+    .copyrigth a{
+        padding: 12px 0;
+        display: inline-block;
+    }
+}
 /* điện thoại */
 @media ( max-width:739px) {
     .s-full-width,
@@ -48,6 +73,6 @@
         opacity: 0.9;
     }
     .contact-form{
-        margin-top: 16px;
+        margin-top: 32px;
     }
 }
