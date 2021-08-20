@@ -1,0 +1,53 @@
+/* điện thoại */
+@media ( max-width:739px) {
+    .s-full-width,
+    .s-col-full{
+        width: 100%;
+    }
+    .s-mt-8{
+        margin-top: 8px !important;
+    }
+    #header{
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .links{
+        display: block;
+    }
+    .links li{
+        display: block;
+    }
+    .links li:first-child{
+        display: inline-block;
+    }
+    .sub-links{
+        position: initial;
+        background-color: #333;
+    }
+    .sub-links li a{
+        color: #fff;
+        padding: 5px 42px;
+
+    }
+    .search-icon{
+        display: none;
+    }
+    .menu-mobile{
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+    .member-item{
+        margin-top: 30px;
+        width: 100%;
+    }
+    .member-img {
+        width: 60%;
+        border-radius: 4px;
+        opacity: 0.9;
+    }
+    .contact-form{
+        margin-top: 16px;
+    }
+}
