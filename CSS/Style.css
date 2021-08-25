@@ -149,6 +149,7 @@ html{
     bottom: 48px;
     color: #fff;
     width: 100%;
+    text-shadow: 0 0 rgba(0, 0, 0, 0.35);
 }
 .slider-contenr .heading-slider{
     margin: 16px 0px;
